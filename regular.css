@@ -25,6 +25,11 @@ td[class].questrial {
 	/* left: 15em; */
 }
 
+.pay{
+	margin-left: -5em !important;
+	/* padding-left: 5em !important; */
+}
+
 div,
 p,
 a,
